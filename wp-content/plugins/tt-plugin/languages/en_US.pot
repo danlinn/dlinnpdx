@@ -1,0 +1,933 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Nominee Plugin 2.3\n"
+"POT-Creation-Date: 2019-10-01 15:58+0600\n"
+"PO-Revision-Date: 2019-10-01 15:59+0600\n"
+"Last-Translator: \n"
+"Language-Team: TrendyTheme Team\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: esc_html__;esc_html_e;esc_html_x;_n_noop;_x;_nx;_n;__;"
+"_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/tt-options.php:35
+msgid "Post Types"
+msgstr ""
+
+#: admin/tt-options.php:40
+msgid "Custom URL Slug"
+msgstr ""
+
+#: admin/tt-options.php:58
+msgid "Enable/Disable post type"
+msgstr ""
+
+#: admin/tt-options.php:60
+msgid "You have to use at least one post type"
+msgstr ""
+
+#: admin/tt-options.php:75
+msgid "Reformation slug"
+msgstr ""
+
+#: admin/tt-options.php:76
+msgid "Change reformation slug, default is: reformation"
+msgstr ""
+
+#: admin/tt-options.php:82
+msgid "Reformation category slug"
+msgstr ""
+
+#: admin/tt-options.php:83
+msgid "Change reformation category slug, default is: reformation-cat"
+msgstr ""
+
+#: admin/tt-options.php:89
+msgid "Issue slug"
+msgstr ""
+
+#: admin/tt-options.php:90
+msgid "Change issue slug, default is: issue"
+msgstr ""
+
+#: admin/tt-options.php:96
+msgid "Issue category slug"
+msgstr ""
+
+#: admin/tt-options.php:97
+msgid "Change issue category slug, default is: issue-category"
+msgstr ""
+
+#: admin/tt-options.php:104
+msgid "Event slug"
+msgstr ""
+
+#: admin/tt-options.php:105
+msgid "Change event slug, default is: event"
+msgstr ""
+
+#: admin/tt-options.php:112 admin/tt-options.php:120
+msgid "Story slug"
+msgstr ""
+
+#: admin/tt-options.php:113
+msgid "Change story slug, default is: story"
+msgstr ""
+
+#: admin/tt-options.php:121
+msgid "Change member slug, default is: member"
+msgstr ""
+
+#: admin/tt-options.php:127
+msgid "Member category slug"
+msgstr ""
+
+#: admin/tt-options.php:128
+msgid "Change member category slug, default is: member-category"
+msgstr ""
+
+#: admin/tt-options.php:137
+msgid ""
+"If you change any field value then you have to save the permalink again, for "
+"that go to this link - "
+msgstr ""
+
+#: inc/api-key-for-google-maps.php:45
+msgid "Kay Updated!"
+msgstr ""
+
+#: inc/api-key-for-google-maps.php:51 inc/api-key-for-google-maps.php:57
+msgid "Add Google Maps API KEY"
+msgstr ""
+
+#: inc/api-key-for-google-maps.php:52
+msgid ""
+"This option will attempt to add your Google API KEY to any Google Maps JS "
+"file that has properly been enqueue."
+msgstr ""
+
+#: inc/api-key-for-google-maps.php:53
+#, php-format
+msgid "To Get a Google Maps API KEY %sclick here%s"
+msgstr ""
+
+#: inc/api-key-for-google-maps.php:56
+msgid "Enter Google Maps API KEY"
+msgstr ""
+
+#: inc/demo-import.php:17 inc/demo-import.php:32
+msgid ""
+"After you import this demo, you will have to setup the slider separately. It "
+"can be found under appearance menu(Import Sliders)"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:82
+#, php-format
+msgid "%s (\"Invalid\", \"tt-pl-textdomain\")"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:86
+#, php-format
+msgid "%s (\"Pending\", \"tt-pl-textdomain\")"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:99
+msgid "sub item"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:131
+msgid "Edit Menu Item"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:140
+msgid "URL"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:148
+msgid "Navigation Label"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:155
+msgid "Title Attribute"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:163
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:169
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:176
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:183
+msgid "Description"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:185
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:192
+msgid "Use as Menu Heading Text?"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:194 inc/widgets/author-widget.php:56
+#: inc/widgets/author-widget.php:64 inc/widgets/latest-posts.php:48
+#: inc/widgets/latest-posts.php:56 inc/widgets/popular-post/widget.php:43
+#: inc/widgets/popular-post/widget.php:51
+#: inc/widgets/popular-post/widget.php:59
+msgid "No"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:195 inc/widgets/author-widget.php:55
+#: inc/widgets/author-widget.php:63 inc/widgets/latest-posts.php:47
+#: inc/widgets/latest-posts.php:55 inc/widgets/popular-post/widget.php:42
+#: inc/widgets/popular-post/widget.php:50
+#: inc/widgets/popular-post/widget.php:58
+msgid "Yes"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:197
+msgid "Select yes to use this item as menu heading text"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:205
+msgid "Menu Icon"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:207
+msgid "Select Icon"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:225
+msgid "Megamenu Settings"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:233
+msgid "Enable Megamenu"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:234
+msgid "Disable Megamenu"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:240
+msgid "Mega Menu Container Width"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:242
+msgid "col-sm-12"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:243
+msgid "col-sm-10"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:245
+msgid "Select Bootstrap grid column for manage container width"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:251
+msgid "Megamenu Column Number"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:253
+msgid "1 Column"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:254
+msgid "2 Column"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:255
+msgid "3 Column"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:256
+msgid "4 Column"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:265
+msgid "Move"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:266
+msgid "Up one"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:267
+msgid "Down one"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:270
+msgid "To the top"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:277
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:290
+msgid "Remove"
+msgstr ""
+
+#: inc/mega-menu/admin-megamenu-walker.php:291
+msgid "Cancel"
+msgstr ""
+
+#: inc/post-likes/zilla-likes.php:41
+msgid "Automatically show likes on"
+msgstr ""
+
+#: inc/post-likes/zilla-likes.php:42
+msgid "Exclude from Post/Page ID"
+msgstr ""
+
+#: inc/post-likes/zilla-likes.php:43
+msgid "Disable CSS"
+msgstr ""
+
+#: inc/post-likes/zilla-likes.php:44
+msgid "AJAX Like Counts"
+msgstr ""
+
+#: inc/post-likes/zilla-likes.php:45
+msgid "0 Count Postfix"
+msgstr ""
+
+#: inc/post-likes/zilla-likes.php:46
+msgid "1 Count Postfix"
+msgstr ""
+
+#: inc/post-likes/zilla-likes.php:47
+msgid "More than 1 Count Postfix"
+msgstr ""
+
+#: inc/post-likes/zilla-likes.php:48
+msgid "Shortcode and Template Tag"
+msgstr ""
+
+#: inc/post-likes/zilla-likes.php:54 inc/post-likes/zilla-likes.php:55
+#: inc/post-likes/zilla-likes.php:65
+msgid "ZillaLikes Settings"
+msgstr ""
+
+#: inc/post-likes/zilla-likes.php:55
+msgid "Settings"
+msgstr ""
+
+#: inc/post-likes/zilla-likes.php:68
+msgid "Settings saved."
+msgstr ""
+
+#: inc/post-likes/zilla-likes.php:74
+msgid "Save Changes"
+msgstr ""
+
+#: inc/post-likes/zilla-likes.php:83
+msgid ""
+"ZillaLikes allows you to display like icons throughout your site. Customize "
+"the output of ZillaLike with this settings page."
+msgstr ""
+
+#: inc/post-likes/zilla-likes.php:97
+msgid "Posts"
+msgstr ""
+
+#: inc/post-likes/zilla-likes.php:100
+msgid "Pages"
+msgstr ""
+
+#: inc/post-likes/zilla-likes.php:103
+msgid "Blog Index Page, Archive Pages, and Search Results"
+msgstr ""
+
+#: inc/post-likes/zilla-likes.php:112
+msgid "Comma separated list of post/page ID's (e.g. 4,7,87)"
+msgstr ""
+
+#: inc/post-likes/zilla-likes.php:121
+msgid "I want to use my own CSS styles"
+msgstr ""
+
+#: inc/post-likes/zilla-likes.php:128
+msgid ""
+"We recommend you check this option when using the Shutterbug theme to avoid "
+"conflicts"
+msgstr ""
+
+#: inc/post-likes/zilla-likes.php:139
+msgid "AJAX Like Counts on page load"
+msgstr ""
+
+#: inc/post-likes/zilla-likes.php:140
+msgid ""
+"If you are using a cacheing plugin, you may want to dynamically load the "
+"like counts via AJAX."
+msgstr ""
+
+#: inc/post-likes/zilla-likes.php:149
+msgid ""
+"The text after the count when no one has liked a post/page. Leave blank for "
+"no text after the count."
+msgstr ""
+
+#: inc/post-likes/zilla-likes.php:158
+msgid ""
+"The text after the count when one person has liked a post/page. Leave blank "
+"for no text after the count."
+msgstr ""
+
+#: inc/post-likes/zilla-likes.php:167
+msgid ""
+"The text after the count when more than one person has liked a post/page. "
+"Leave blank for no text after the count."
+msgstr ""
+
+#: inc/post-likes/zilla-likes.php:172
+msgid "To use ZillaLikes in your posts and pages you can use the shortcode:"
+msgstr ""
+
+#: inc/post-likes/zilla-likes.php:174
+msgid ""
+"To use ZillaLikes manually in your theme template use the following PHP code:"
+msgstr ""
+
+#: inc/post-likes/zilla-likes.php:318
+msgid "Like this"
+msgstr ""
+
+#: inc/post-likes/zilla-likes.php:321
+msgid "You already like this"
+msgstr ""
+
+#: inc/post-likes/zilla-likes.php:358
+msgid "Displays your most popular posts sorted by most liked"
+msgstr ""
+
+#: inc/post-likes/zilla-likes.php:415
+msgid "Popular Posts"
+msgstr ""
+
+#: inc/post-likes/zilla-likes.php:430
+msgid "Title:"
+msgstr ""
+
+#: inc/post-likes/zilla-likes.php:434
+msgid "Description:"
+msgstr ""
+
+#: inc/post-likes/zilla-likes.php:438
+msgid "Posts:"
+msgstr ""
+
+#: inc/post-likes/zilla-likes.php:443
+msgid "Display like counts"
+msgstr ""
+
+#: inc/post-types/post-types.php:85 inc/post-types/post-types.php:86
+#: inc/post-types/post-types.php:87 inc/post-types/post-types.php:100
+msgid "Reformation"
+msgstr ""
+
+#: inc/post-types/post-types.php:88
+msgid "Parent Reformation:"
+msgstr ""
+
+#: inc/post-types/post-types.php:89
+msgid "All Reformation"
+msgstr ""
+
+#: inc/post-types/post-types.php:90
+msgid "View Reformation"
+msgstr ""
+
+#: inc/post-types/post-types.php:91
+msgid "Add New Reformation"
+msgstr ""
+
+#: inc/post-types/post-types.php:92 inc/post-types/post-types.php:181
+#: inc/post-types/post-types.php:269 inc/post-types/post-types.php:316
+#: inc/post-types/post-types.php:363
+msgid "Add New"
+msgstr ""
+
+#: inc/post-types/post-types.php:93
+msgid "Edit Reformation"
+msgstr ""
+
+#: inc/post-types/post-types.php:94
+msgid "Update Reformation"
+msgstr ""
+
+#: inc/post-types/post-types.php:95
+msgid "Search Reformation"
+msgstr ""
+
+#: inc/post-types/post-types.php:96
+msgid "No Reformation found"
+msgstr ""
+
+#: inc/post-types/post-types.php:97
+msgid "No Reformation found in Trash"
+msgstr ""
+
+#: inc/post-types/post-types.php:132 inc/post-types/post-types.php:133
+#: inc/post-types/post-types.php:221 inc/post-types/post-types.php:222
+#: inc/post-types/post-types.php:403 inc/post-types/post-types.php:404
+msgid "Category"
+msgstr ""
+
+#: inc/post-types/post-types.php:134 inc/post-types/post-types.php:223
+#: inc/post-types/post-types.php:405
+msgid "Search Category"
+msgstr ""
+
+#: inc/post-types/post-types.php:135 inc/post-types/post-types.php:224
+#: inc/post-types/post-types.php:406
+msgid "Popular Category"
+msgstr ""
+
+#: inc/post-types/post-types.php:136 inc/post-types/post-types.php:225
+#: inc/post-types/post-types.php:407
+msgid "All Categories"
+msgstr ""
+
+#: inc/post-types/post-types.php:137 inc/post-types/post-types.php:226
+#: inc/post-types/post-types.php:408
+msgid "Parent Category"
+msgstr ""
+
+#: inc/post-types/post-types.php:138 inc/post-types/post-types.php:227
+#: inc/post-types/post-types.php:409
+msgid "Parent Category:"
+msgstr ""
+
+#: inc/post-types/post-types.php:139 inc/post-types/post-types.php:228
+#: inc/post-types/post-types.php:410
+msgid "Edit Category"
+msgstr ""
+
+#: inc/post-types/post-types.php:140 inc/post-types/post-types.php:229
+#: inc/post-types/post-types.php:411
+msgid "Update Category"
+msgstr ""
+
+#: inc/post-types/post-types.php:141 inc/post-types/post-types.php:230
+#: inc/post-types/post-types.php:412
+msgid "Add New Category"
+msgstr ""
+
+#: inc/post-types/post-types.php:142 inc/post-types/post-types.php:231
+#: inc/post-types/post-types.php:413
+msgid "New Category"
+msgstr ""
+
+#: inc/post-types/post-types.php:143 inc/post-types/post-types.php:232
+#: inc/post-types/post-types.php:414
+msgid "Separate categories with commas"
+msgstr ""
+
+#: inc/post-types/post-types.php:144 inc/post-types/post-types.php:233
+#: inc/post-types/post-types.php:415
+msgid "Add or remove categories"
+msgstr ""
+
+#: inc/post-types/post-types.php:145 inc/post-types/post-types.php:234
+#: inc/post-types/post-types.php:416
+msgid "Choose from most used categories"
+msgstr ""
+
+#: inc/post-types/post-types.php:146 inc/post-types/post-types.php:235
+#: inc/post-types/post-types.php:417
+msgid "Categories"
+msgstr ""
+
+#: inc/post-types/post-types.php:174 inc/post-types/post-types.php:175
+#: inc/post-types/post-types.php:176 inc/post-types/post-types.php:189
+msgid "Issue"
+msgstr ""
+
+#: inc/post-types/post-types.php:177
+msgid "Parent Issue:"
+msgstr ""
+
+#: inc/post-types/post-types.php:178
+msgid "All Issue"
+msgstr ""
+
+#: inc/post-types/post-types.php:179
+msgid "View Issue"
+msgstr ""
+
+#: inc/post-types/post-types.php:180
+msgid "Add New Issue"
+msgstr ""
+
+#: inc/post-types/post-types.php:182
+msgid "Edit Issue"
+msgstr ""
+
+#: inc/post-types/post-types.php:183
+msgid "Update Issue"
+msgstr ""
+
+#: inc/post-types/post-types.php:184
+msgid "Search Issue"
+msgstr ""
+
+#: inc/post-types/post-types.php:185
+msgid "No Issue found"
+msgstr ""
+
+#: inc/post-types/post-types.php:186
+msgid "No Issue found in Trash"
+msgstr ""
+
+#: inc/post-types/post-types.php:262 inc/post-types/post-types.php:263
+#: inc/post-types/post-types.php:277
+msgid "Event"
+msgstr ""
+
+#: inc/post-types/post-types.php:264
+msgid "Events"
+msgstr ""
+
+#: inc/post-types/post-types.php:265
+msgid "Parent Event:"
+msgstr ""
+
+#: inc/post-types/post-types.php:266
+msgid "All Events"
+msgstr ""
+
+#: inc/post-types/post-types.php:267
+msgid "View Event"
+msgstr ""
+
+#: inc/post-types/post-types.php:268
+msgid "Add New Event"
+msgstr ""
+
+#: inc/post-types/post-types.php:270
+msgid "Edit Event"
+msgstr ""
+
+#: inc/post-types/post-types.php:271
+msgid "Update Event"
+msgstr ""
+
+#: inc/post-types/post-types.php:272
+msgid "Search Event"
+msgstr ""
+
+#: inc/post-types/post-types.php:273
+msgid "No Event found"
+msgstr ""
+
+#: inc/post-types/post-types.php:274
+msgid "No Event found in Trash"
+msgstr ""
+
+#: inc/post-types/post-types.php:309 inc/post-types/post-types.php:310
+#: inc/post-types/post-types.php:324
+msgid "Story"
+msgstr ""
+
+#: inc/post-types/post-types.php:311
+msgid "Stories"
+msgstr ""
+
+#: inc/post-types/post-types.php:312
+msgid "Parent Story:"
+msgstr ""
+
+#: inc/post-types/post-types.php:313
+msgid "All Stories"
+msgstr ""
+
+#: inc/post-types/post-types.php:314
+msgid "View Story"
+msgstr ""
+
+#: inc/post-types/post-types.php:315
+msgid "Add New Story"
+msgstr ""
+
+#: inc/post-types/post-types.php:317
+msgid "Edit Story"
+msgstr ""
+
+#: inc/post-types/post-types.php:318
+msgid "Update Story"
+msgstr ""
+
+#: inc/post-types/post-types.php:319
+msgid "Search Story"
+msgstr ""
+
+#: inc/post-types/post-types.php:320
+msgid "No Story found"
+msgstr ""
+
+#: inc/post-types/post-types.php:321
+msgid "No Story found in Trash"
+msgstr ""
+
+#: inc/post-types/post-types.php:356 inc/post-types/post-types.php:357
+#: inc/post-types/post-types.php:371
+msgid "Member"
+msgstr ""
+
+#: inc/post-types/post-types.php:358
+msgid "Members"
+msgstr ""
+
+#: inc/post-types/post-types.php:359
+msgid "Parent Member:"
+msgstr ""
+
+#: inc/post-types/post-types.php:360
+msgid "All Members"
+msgstr ""
+
+#: inc/post-types/post-types.php:361
+msgid "View Member"
+msgstr ""
+
+#: inc/post-types/post-types.php:362
+msgid "Add New Member"
+msgstr ""
+
+#: inc/post-types/post-types.php:364
+msgid "Edit Member"
+msgstr ""
+
+#: inc/post-types/post-types.php:365
+msgid "Update Member"
+msgstr ""
+
+#: inc/post-types/post-types.php:366
+msgid "Search Member"
+msgstr ""
+
+#: inc/post-types/post-types.php:367
+msgid "No Member found"
+msgstr ""
+
+#: inc/post-types/post-types.php:368
+msgid "No Member found in Trash"
+msgstr ""
+
+#: inc/template-tags.php:81
+msgid "Employer"
+msgstr ""
+
+#: inc/template-tags.php:91
+msgid "Employer title"
+msgstr ""
+
+#: inc/template-tags.php:104
+msgid "Occupation"
+msgstr ""
+
+#: inc/template-tags.php:114
+msgid "Donor Occupation"
+msgstr ""
+
+#: inc/widgets/author-widget.php:13
+msgid "Nominee Author Widget"
+msgstr ""
+
+#: inc/widgets/author-widget.php:14
+msgid "Displays author/user info"
+msgstr ""
+
+#: inc/widgets/author-widget.php:29 inc/widgets/comments-widget.php:27
+#: inc/widgets/flickr-widget.php:29 inc/widgets/latest-posts.php:30
+#: inc/widgets/popular-post/widget.php:30 inc/widgets/social-icons.php:36
+msgid "Title: "
+msgstr ""
+
+#: inc/widgets/author-widget.php:34
+msgid "Select Author"
+msgstr ""
+
+#: inc/widgets/author-widget.php:53
+msgid "Show author description ? "
+msgstr ""
+
+#: inc/widgets/author-widget.php:61
+msgid "Show author social ? "
+msgstr ""
+
+#: inc/widgets/comments-widget.php:13
+msgid "Nominee Recent Comments"
+msgstr ""
+
+#: inc/widgets/comments-widget.php:14
+msgid "Your site's most recent comments with user avatar."
+msgstr ""
+
+#: inc/widgets/comments-widget.php:32
+msgid "Number of comments to show: "
+msgstr ""
+
+#: inc/widgets/flickr-widget.php:14
+msgid "Nominee Flickr Photo Widget"
+msgstr ""
+
+#: inc/widgets/flickr-widget.php:15
+msgid "Displays flickr photo"
+msgstr ""
+
+#: inc/widgets/flickr-widget.php:34
+msgid "Flickr ID: "
+msgstr ""
+
+#: inc/widgets/flickr-widget.php:41
+msgid "Photo Limit: "
+msgstr ""
+
+#: inc/widgets/latest-posts.php:13
+msgid "Nominee Latest Posts"
+msgstr ""
+
+#: inc/widgets/latest-posts.php:14
+msgid "Displays latest post"
+msgstr ""
+
+#: inc/widgets/latest-posts.php:35
+msgid "Title Limit (in word): "
+msgstr ""
+
+#: inc/widgets/latest-posts.php:40 inc/widgets/popular-post/widget.php:35
+msgid "Number of posts to show: "
+msgstr ""
+
+#: inc/widgets/latest-posts.php:45 inc/widgets/popular-post/widget.php:40
+msgid "Show meta ? "
+msgstr ""
+
+#: inc/widgets/latest-posts.php:53 inc/widgets/popular-post/widget.php:48
+msgid "Show Post thumbnail ? "
+msgstr ""
+
+#: inc/widgets/latest-posts.php:137 inc/widgets/popular-post/widget.php:154
+#: inc/widgets/popular-post/widget.php:216
+msgid "Post Not Found!"
+msgstr ""
+
+#: inc/widgets/popular-post/widget.php:13
+msgid "Nominee Popular Posts"
+msgstr ""
+
+#: inc/widgets/popular-post/widget.php:14
+msgid "Your site's most popular and recent posts."
+msgstr ""
+
+#: inc/widgets/popular-post/widget.php:56
+msgid "Show Post view ? "
+msgstr ""
+
+#: inc/widgets/popular-post/widget.php:92
+msgid "Latest"
+msgstr ""
+
+#: inc/widgets/popular-post/widget.php:95
+msgid "Popular"
+msgstr ""
+
+#: inc/widgets/social-icons.php:8
+msgid "Nominee Social Icons"
+msgstr ""
+
+#: inc/widgets/social-icons.php:9
+msgid "Displays social icons"
+msgstr ""
+
+#: inc/widgets/social-icons.php:41
+msgid "Select icon size:"
+msgstr ""
+
+#: inc/widgets/social-icons.php:50
+msgid "Enter facebook URL:"
+msgstr ""
+
+#: inc/widgets/social-icons.php:54
+msgid "Enter twitter URL:"
+msgstr ""
+
+#: inc/widgets/social-icons.php:58
+msgid "Enter google URL:"
+msgstr ""
+
+#: inc/widgets/social-icons.php:62
+msgid "Enter pinterest URL:"
+msgstr ""
+
+#: inc/widgets/social-icons.php:66
+msgid "Enter dribbble URL:"
+msgstr ""
+
+#: inc/widgets/social-icons.php:70
+msgid "Enter behance URL:"
+msgstr ""
+
+#: inc/widgets/social-icons.php:74
+msgid "Enter instagram URL:"
+msgstr ""
+
+#: inc/widgets/social-icons.php:78
+msgid "Enter linkedin URL:"
+msgstr ""
+
+#: inc/widgets/social-icons.php:82
+msgid "Enter delicious URL:"
+msgstr ""
+
+#: inc/widgets/social-icons.php:86
+msgid "Enter soundcloud URL:"
+msgstr ""
+
+#: inc/widgets/social-icons.php:90
+msgid "Enter youtube URL:"
+msgstr ""
+
+#: inc/widgets/social-icons.php:94
+msgid "Enter flickr URL:"
+msgstr ""
+
+#: inc/widgets/social-icons.php:98
+msgid "Enter vimeo URL:"
+msgstr ""
+
+#: inc/widgets/social-icons.php:102
+msgid "Enter github URL:"
+msgstr ""
+
+#: inc/widgets/social-icons.php:106
+msgid "Enter tumblr URL:"
+msgstr ""
+
+#: inc/widgets/social-icons.php:110
+msgid "Enter android URL:"
+msgstr ""
+
+#: inc/widgets/social-icons.php:114
+msgid "Enter digg URL:"
+msgstr ""
