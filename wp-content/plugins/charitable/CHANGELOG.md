@@ -1,3 +1,6 @@
+# 1.7.0.14
+* FIX: Resolved a security issue when using the charitable_donors shortcode.
+
 # 1.7.0.13
 * FIX: Resolved issues related to users registering new accounts with administrator roles in some scenarios.
 

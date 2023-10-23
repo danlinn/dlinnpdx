@@ -52,7 +52,7 @@ if ( 'horizontal' == $orientation ) {
 if ( $donors->count() ) :
 	echo $style;
 	?>
-	<ol class="donors-list donors-list-<?php echo $orientation; ?>">
+	<ol class="donors-list donors-list-<?php echo esc_attr( $orientation ); ?>">
 		<?php
 		foreach ( $donors as $donor ) :
 

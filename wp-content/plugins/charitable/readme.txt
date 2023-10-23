@@ -2,8 +2,8 @@
 Contributors: WPCharitable, griffinjt, smub, dimensionmedia
 Tags: donate, donate button, donation, donations, fundraising, fundraising platform, donation form, donor, charity, campaign, fundraising campaign, paypal donations, stripe donations, credit card donations, crowdfunding, crowdfunding platform
 Requires at least: 4.1
-Tested up to: 6.3.0
-Stable tag: 1.7.0.13
+Tested up to: 6.3.1
+Stable tag: 1.7.0.14
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -246,6 +246,9 @@ You can post in the [support forum](https://wordpress.org/support/plugin/charita
 
 == Changelog ==
 
+= Donation Form & Fundraising Campaigns v1.7.0.14 =
+* FIX: Resolved a security issue when using the charitable_donors shortcode.
+
 = Donation Form & Fundraising Campaigns v1.7.0.13 =
 * FIX: Resolved issues related to users registering new accounts with administrator roles in some scenarios.
 
@@ -288,15 +291,5 @@ You can post in the [support forum](https://wordpress.org/support/plugin/charita
 * NEW (BETA): Added “donor history” metabox to the donation overview screen for admins to see other donations from same potential donor.
 * FIX: Improved reliability of the default suggested donation feature in introduced in 1.7.0.4.
 * FIX: Resolved a potential vulnerability in filter and export fields on campaign and donation WordPress admin list pages.
-
-= Donation Form & Fundraising Campaigns v1.7.0.7 =
-* NEW (BETA): Import and export donations and campaigns in new "tools" tab in Charitable settings.
-* NEW (BETA): Minimum donation location, notice display location, and default highlight color settings in general tab.
-* NEW: New "Clear Cache" checkbox in "Advanced" Tab - includes ability to remove "stuck upgrade message".
-* FIX: Minor font and spacing adjustments to settings CSS.
-* FIX: Resolved some PHP depreciation warnings that would appear on PHP 8.2.
-
-= Donation Form & Fundraising Campaigns v1.7.0.6 =
-* FIX: Resolve issue when a license is asked for when updating the core plugin.
 
 **[View entire donation form and fundraising platform changelog](https://plugins.svn.wordpress.org/charitable/trunk/CHANGELOG.md)**
