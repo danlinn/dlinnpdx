@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'woocommerce/payments',
-        'pretty_version' => 'dev-release/6.6.0',
-        'version' => 'dev-release/6.6.0',
-        'reference' => '5f471fb74650775dbf30cdb2d94b03478d739520',
+        'pretty_version' => 'dev-release/6.6.2',
+        'version' => 'dev-release/6.6.2',
+        'reference' => '0968272d3c3609c30852aef2ac7b788bcc692600',
         'type' => 'wordpress-plugin',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -154,15 +154,6 @@
             'aliases' => array(),
             'dev_requirement' => false,
         ),
-        'psr/container' => array(
-            'pretty_version' => '1.1.1',
-            'version' => '1.1.1.0',
-            'reference' => '8622567409010282b7aeebe4bb841fe98b58dcaf',
-            'type' => 'library',
-            'install_path' => __DIR__ . '/../psr/container',
-            'aliases' => array(),
-            'dev_requirement' => false,
-        ),
         'roundcube/plugin-installer' => array(
             'dev_requirement' => false,
             'replaced' => array(
@@ -176,9 +167,9 @@
             ),
         ),
         'woocommerce/payments' => array(
-            'pretty_version' => 'dev-release/6.6.0',
-            'version' => 'dev-release/6.6.0',
-            'reference' => '5f471fb74650775dbf30cdb2d94b03478d739520',
+            'pretty_version' => 'dev-release/6.6.2',
+            'version' => 'dev-release/6.6.2',
+            'reference' => '0968272d3c3609c30852aef2ac7b788bcc692600',
             'type' => 'wordpress-plugin',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),

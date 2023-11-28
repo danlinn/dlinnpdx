@@ -218,9 +218,6 @@ return array(
     'Jetpack_Tracks_Client' => $vendorDir . '/automattic/jetpack-connection/legacy/class-jetpack-tracks-client.php',
     'Jetpack_Tracks_Event' => $vendorDir . '/automattic/jetpack-connection/legacy/class-jetpack-tracks-event.php',
     'Jetpack_XMLRPC_Server' => $vendorDir . '/automattic/jetpack-connection/legacy/class-jetpack-xmlrpc-server.php',
-    'Psr\\Container\\ContainerExceptionInterface' => $vendorDir . '/psr/container/src/ContainerExceptionInterface.php',
-    'Psr\\Container\\ContainerInterface' => $vendorDir . '/psr/container/src/ContainerInterface.php',
-    'Psr\\Container\\NotFoundExceptionInterface' => $vendorDir . '/psr/container/src/NotFoundExceptionInterface.php',
     'WCPay\\Container' => $baseDir . '/src/Container.php',
     'WCPay\\Internal\\DependencyManagement\\AbstractServiceProvider' => $baseDir . '/src/Internal/DependencyManagement/AbstractServiceProvider.php',
     'WCPay\\Internal\\DependencyManagement\\DelegateContainer\\LegacyContainer' => $baseDir . '/src/Internal/DependencyManagement/DelegateContainer/LegacyContainer.php',
@@ -323,4 +320,7 @@ return array(
     'WCPay\\Vendor\\League\\Container\\ServiceProvider\\ServiceProviderAggregate' => $baseDir . '/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregate.php',
     'WCPay\\Vendor\\League\\Container\\ServiceProvider\\ServiceProviderAggregateInterface' => $baseDir . '/lib/packages/League/Container/ServiceProvider/ServiceProviderAggregateInterface.php',
     'WCPay\\Vendor\\League\\Container\\ServiceProvider\\ServiceProviderInterface' => $baseDir . '/lib/packages/League/Container/ServiceProvider/ServiceProviderInterface.php',
+    'WCPay\\Vendor\\Psr\\Container\\ContainerExceptionInterface' => $baseDir . '/lib/packages/Psr/Container/ContainerExceptionInterface.php',
+    'WCPay\\Vendor\\Psr\\Container\\ContainerInterface' => $baseDir . '/lib/packages/Psr/Container/ContainerInterface.php',
+    'WCPay\\Vendor\\Psr\\Container\\NotFoundExceptionInterface' => $baseDir . '/lib/packages/Psr/Container/NotFoundExceptionInterface.php',
 );
