@@ -1,0 +1,59 @@
+
+---Downloaded files---
+The import files for: Male Candidate were successfully downloaded!
+Initial max execution time = 60
+Files info:
+Site URL = http://143.198.129.160
+Data file = /var/www/html/wp-content/uploads/2023/09/demo-content-import-file_2023-09-30__23-34-02.xml
+Widget file = /var/www/html/wp-content/uploads/2023/09/demo-widgets-import-file_2023-09-30__23-34-02.json
+Customizer file = not defined!
+Redux files:
+nominee_theme_option -> /var/www/html/wp-content/uploads/2023/09/demo-redux-import-file_0-2023-09-30__23-34-02.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Search - Search - Imported
+Nominee Latest Posts - Latest Posts - Imported
+Nominee Recent Comments - Recent Comments - Imported
+Mailchimp Sign-Up Form - Newsletter - Imported
+
+Page Sidebar Area : 
+
+Mailchimp Sign-Up Form - Stay Informed - Imported
+Nominee Social Icons - Connect with us - Imported
+Text - Get Involve - Imported
+
+Donation Single Sidebar Area : 
+
+Campaign Donation - Donate this campaign - Imported
+Campaigns - Upcoming Campaign - Imported
+Campaign Categories / Tags - Campaign Categories - Imported
+
+Footer Sidebar Area : 
+
+Text - No Title - Imported
+Text - Contact - Imported
+Navigation Menu - Accomplishments - Imported
+Nominee Flickr Photo Widget - Flicker Photos - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: nominee_theme_option finished successfully!
+
+---ocdi/after_import---
+

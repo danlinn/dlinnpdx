@@ -84,3 +84,19 @@
 [07-Apr-2024 22:17:58 UTC] BLOCK: Getting Spectra Common CSS
 [07-Apr-2024 22:18:22 UTC] BLOCK: Getting Spectra Common CSS
 [07-Apr-2024 22:18:23 UTC] BLOCK: Getting Spectra Common CSS
+[07-Apr-2024 22:36:50 UTC] PHP Warning:  mysqli_real_connect(): php_network_getaddresses: getaddrinfo for database failed: Name or service not known in /home/dh_3gebz8/linnforportland.com/wp-includes/class-wpdb.php on line 1987
+[07-Apr-2024 22:36:50 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo for database failed: Name or service not known in /home/dh_3gebz8/linnforportland.com/wp-includes/class-wpdb.php on line 1987
+[07-Apr-2024 22:36:56 UTC] PHP Warning:  mysqli_real_connect(): php_network_getaddresses: getaddrinfo for database failed: Name or service not known in /home/dh_3gebz8/linnforportland.com/wp-includes/class-wpdb.php on line 1987
+[07-Apr-2024 22:36:56 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo for database failed: Name or service not known in /home/dh_3gebz8/linnforportland.com/wp-includes/class-wpdb.php on line 1987
+[07-Apr-2024 22:37:07 UTC] PHP Warning:  mysqli_real_connect(): php_network_getaddresses: getaddrinfo for database failed: Name or service not known in /home/dh_3gebz8/linnforportland.com/wp-includes/class-wpdb.php on line 1987
+[07-Apr-2024 22:37:07 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo for database failed: Name or service not known in /home/dh_3gebz8/linnforportland.com/wp-includes/class-wpdb.php on line 1987
+[07-Apr-2024 22:37:18 UTC] PHP Warning:  mysqli_real_connect(): php_network_getaddresses: getaddrinfo for database failed: Name or service not known in /home/dh_3gebz8/linnforportland.com/wp-includes/class-wpdb.php on line 1987
+[07-Apr-2024 22:37:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo for database failed: Name or service not known in /home/dh_3gebz8/linnforportland.com/wp-includes/class-wpdb.php on line 1987
+[07-Apr-2024 22:37:50 UTC] PHP Warning:  mysqli_real_connect(): php_network_getaddresses: getaddrinfo for database failed: Name or service not known in /home/dh_3gebz8/linnforportland.com/wp-includes/class-wpdb.php on line 1987
+[07-Apr-2024 22:37:50 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo for database failed: Name or service not known in /home/dh_3gebz8/linnforportland.com/wp-includes/class-wpdb.php on line 1987
+[07-Apr-2024 22:37:56 UTC] PHP Warning:  mysqli_real_connect(): php_network_getaddresses: getaddrinfo for database failed: Name or service not known in /home/dh_3gebz8/linnforportland.com/wp-includes/class-wpdb.php on line 1987
+[07-Apr-2024 22:37:56 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo for database failed: Name or service not known in /home/dh_3gebz8/linnforportland.com/wp-includes/class-wpdb.php on line 1987
+[07-Apr-2024 22:38:07 UTC] PHP Warning:  mysqli_real_connect(): php_network_getaddresses: getaddrinfo for database failed: Name or service not known in /home/dh_3gebz8/linnforportland.com/wp-includes/class-wpdb.php on line 1987
+[07-Apr-2024 22:38:07 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo for database failed: Name or service not known in /home/dh_3gebz8/linnforportland.com/wp-includes/class-wpdb.php on line 1987
+[07-Apr-2024 22:38:18 UTC] PHP Warning:  mysqli_real_connect(): php_network_getaddresses: getaddrinfo for database failed: Name or service not known in /home/dh_3gebz8/linnforportland.com/wp-includes/class-wpdb.php on line 1987
+[07-Apr-2024 22:38:18 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo for database failed: Name or service not known in /home/dh_3gebz8/linnforportland.com/wp-includes/class-wpdb.php on line 1987
