@@ -1,0 +1,42 @@
+{
+  "name": "helloworlddevs/linnforportland",
+  "type": "project",
+  "autoload": {
+    "psr-4": {
+      "Helloworlddevs\\Linnforportland\\": "src/"
+    }
+  },
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "https://wpackagist.org"
+    }
+  ],
+  "authors": [
+    {
+      "name": "Dan Linn",
+      "email": "dan@helloworlddevs.com"
+    }
+  ],
+  "require": {
+    "php": "^7.4",
+    "johnpbloch/wordpress": "^6.5",
+    "wpackagist-plugin/safe-svg": "^2.2"
+  },
+  "config": {
+    "allow-plugins": {
+      "johnpbloch/wordpress-core-installer": true,
+      "composer/installers": true
+    }
+  },
+  "extra": {
+    "installer-paths": {
+      "wordpress/wp-content/composer-plugins/{$name}/": [
+        "type:wordpress-plugin"
+      ],
+      "wordpress/wp-content/composer-themes/{$name}/": [
+        "type:wordpress-theme"
+      ]
+    }
+  }
+}

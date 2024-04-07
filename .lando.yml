@@ -1,0 +1,29 @@
+name: linnforportland
+recipe: wordpress
+config:
+  php: '7.4' # Match the PHP version with DreamHost's environment
+  webroot: wordpress
+  database: mariadb:10.3 # Or MySQL, depending on DreamHost's setup
+services:
+  phpmyadmin:
+    type: phpmyadmin
+  database:
+    type: mariadb:10.3
+    portforward: true
+    creds:
+      user: wordpress
+      password: wordpress
+      database: wordpress
+proxy:
+  appserver:
+    # Add reliable domain. Requires adding to /etc/hosts on local machine to work.
+    - linnforportland.lando
+tooling:
+  composer:
+    service: appserver
+  wp:
+    service: appserver
+    cmd: wp --path=/app/wordpress
+events:
+  post-start:
+    - appserver: cp /app/lando/wp-conf/default.wp-config.php /app/wordpress/wp-config.php

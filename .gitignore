@@ -1,0 +1,28 @@
+# Ignore WordPress core files installed via Composer
+/wordpress/
+
+# Composer's vendor directory and lock file
+/vendor/
+/composer.lock
+
+# Include the wp-content/uploads directory explicitly
+!/wordpress/wp-content/uploads/
+!/wordpress/wp-content/plugins/
+!/wordpress/wp-content/themes/
+
+# Ignore Composer's files
+/vendor/
+
+# Include Lando configuration
+# (No need to ignore .lando.yml and .lando.base.yml if you want them included)
+
+# Ignore sensitive files (adjust the path as needed)
+/wordpress/wp-config.php
+/wordpress/.htaccess
+
+# System files to ignore
+.DS_Store
+Thumbs.db
+
+# Node modules if you're using Node in your project
+/node_modules/
