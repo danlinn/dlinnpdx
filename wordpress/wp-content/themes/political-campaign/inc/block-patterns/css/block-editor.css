@@ -1,0 +1,90 @@
+/*Banner section*/
+.political-campaign-banner-section h1,
+.political-campaign-campaign-principles h2,
+.political-campaign-campaign-principles h3 {
+  font-family: "Crimson Text", sans-serif;
+}
+.political-campaign-banner-section p,
+.political-campaign-campaign-principles p {
+  font-family: "Lato", sans-serif;
+}
+.political-campaign-column-1{
+  margin-left: 8% !important;
+}
+.editor-styles-wrapper .wp-block-columns.wp-container-1 {
+  margin-left: 128px;
+}
+.political-campaign-banner-section h1 {
+  margin-bottom: 20px;
+  font-weight: 700;
+}
+.political-campaign-banner-section h1:hover {
+  color: #e22b25!important;
+}
+.political-campaign-banner-section p {
+  font-weight: 500;
+  margin-bottom: 30px;
+}
+.banner-section-button .wp-block-button__link {
+  letter-spacing: 1px;
+  font-size: 15px;
+  font-weight: 600;
+  text-align: center;
+  border-top: 3px solid #fff;
+  border-bottom: 3px solid #fff;
+  padding: 10px;
+  border-radius: 0px !important;
+  background: none !important;
+}
+.banner-section-button .wp-block-button__link:hover {
+  color: #e22b25!important;
+  border-top-color: #e22b25;
+  border-bottom-color: #e22b25;
+}
+/* campaign-priciples-section */
+.political-campaign-campaign-principles p {
+  font-weight: 500;
+  margin-bottom: 0px;
+}
+.political-campaign-campaign-principles h2 {
+  letter-spacing: 1px;
+  font-weight: 700;
+  font-size: 2rem;
+  margin-top: 0px;
+}
+.political-campaign-campaign-principles h2:after {
+  position: absolute;
+  background: linear-gradient(to right, #163d80 50%, #e22b25 50%);
+  right: 0;
+  left: 0;
+  content: "";
+  width: 15%;
+  height: 2px;
+  display: block;
+  border-radius: 30px;
+  margin: 12px auto 0;
+}
+html :where(.wp-block) {
+  max-width: 1452px;
+}
+.political-campaign-campaign-principles h3 {
+  font-weight: 700;
+  text-align: center;
+  margin: 0px 0;
+  padding: 20px;
+  box-shadow: 0px 0px 30px 5px #ededed;
+  font-size: 18px;
+}
+.political-campaign-campaign-principles-colimg:hover h3 {
+  color: #e22b25 !important;
+}
+
+.political-campaign-campaign-principles-colimg:hover img{
+  opacity: 0.5;
+}
+.political-campaign-campaign-principles-colimg figure {
+  margin-bottom: 0px;
+}
+.political-campaign-campaign-principles-colimg figure div {
+  width: 100% !important;
+}

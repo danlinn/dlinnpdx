@@ -1,0 +1,146 @@
+/*Banner section*/
+.political-campaign-banner-section h1,
+.political-campaign-campaign-principles h2,
+.political-campaign-campaign-principles h3 {
+  font-family: "Crimson Text", sans-serif;
+}
+.political-campaign-banner-section p,
+.political-campaign-campaign-principles p {
+  font-family: "Lato", sans-serif;
+}
+.political-campaign-banner-section {
+  width: auto !important;
+  height: auto !important;
+}
+.political-campaign-banner-section .political-campaign-column-1 {
+  margin-left: 15% !important;
+  padding-top: 1.25rem;
+  padding-bottom: 1.25rem;
+}
+.political-campaign-banner-section h1 {
+  margin-bottom: 20px;
+  font-weight: 700;
+}
+
+.political-campaign-banner-section h1:hover {
+  color: #e22b25!important;
+}
+.political-campaign-banner-section p {
+  font-weight: 500;
+  margin-bottom: 30px;
+}
+.political-campaign-banner-section .banner-section-button a {
+  font-size: 15px;
+  letter-spacing: 1px;
+  font-weight: 600;
+  text-align: center;
+  border-top: 3px solid #fff;
+  border-bottom: 3px solid #fff;
+  padding: 10px;
+  border-radius: 0px;
+  background: none;
+}
+.political-campaign-banner-section .banner-section-button a:hover {
+  color: #e22b25 !important;
+  border-top-color: #e22b25;
+  border-bottom-color: #e22b25;
+}
+
+/* campaign-priciples-section */
+.political-campaign-campaign-principles p {
+  font-weight: 500;
+  margin-bottom: 0px;
+}
+.political-campaign-campaign-principles h2 {
+  letter-spacing: 1px;
+  font-weight: 700;
+}
+.political-campaign-campaign-principles h2:after {
+  position: absolute;
+  background: linear-gradient(to right, #163d80 50%, #e22b25 50%);
+  right: 0;
+  left: 0;
+  content: "";
+  width: 12%;
+  height: 2px;
+  display: block;
+  border-radius: 30px;
+  margin: 12px auto 0;
+}
+.political-campaign-campaign-principles h3 {
+  text-align: center;
+  margin: 0px 0;
+  padding: 20px;
+  box-shadow: 0px 0px 30px 5px #ededed;
+  font-weight: 700;
+  font-size: 18px;
+}
+.political-campaign-campaign-principles .wp-block-columns {
+  gap: 1em !important;
+}
+.political-campaign-campaign-principles-colimg figure {
+  margin-bottom: 0px;
+}
+.political-campaign-campaign-principles-colimg:hover h3 {
+  color: #e22b25 !important;
+}
+.political-campaign-campaign-principles-colimg:hover img{
+  opacity: 0.5;
+}
+.political-campaign-campaign-principles-colimg {
+  text-align: center;
+}
+.political-campaign-campaign-principles-colimg .wp-block-image img{
+  width: 100%;
+}
+/*----------------Media Section---------------------*/
+/* For mobile media: */
+@media screen and (max-width: 426px) {
+  .political-campaign-banner-section p {
+    display: none;
+  }
+  .political-campaign-banner-section {
+    min-height: 200px !important;
+  }
+  .political-campaign-banner-section .political-campaign-column-1 {
+    margin-left: 40px !important;
+  }
+  .political-campaign-campaign-principles-colimg img{
+    width:100%;
+  }
+}
+
+/* For Tablet media: */
+@media screen and (max-width: 768px) and (min-width: 427px) {
+  .wp-block-columns:not(.is-not-stacked-on-mobile)
+    > .political-campaign-campaign-principles-colimg {
+    flex-basis: 30% !important;
+  }
+  .wp-block-columns:not(.is-not-stacked-on-mobile)
+    > .political-campaign-column-1 {
+    flex-basis: 60% !important;
+  }
+  .wp-block-columns:not(.is-not-stacked-on-mobile)
+    > .political-campaign-column-2 {
+    flex-basis: 40% !important;
+  }
+  .political-campaign-banner-section h1 {
+    font-size: 35px;
+  }
+  .political-campaign-banner-section p {
+    display: none;
+  }
+  .political-campaign-banner-section {
+    min-height: 400px !important;
+  }
+  .political-campaign-banner-section .political-campaign-column-1 {
+    margin-left: 48px !important;
+  }
+}
+/* For Tablet media: */
+@media screen and (max-width: 1024px) and (min-width: 1000px){
+  .political-campaign-banner-section .political-campaign-column-1{
+    margin-left: 5% !important;
+  }
+}
+

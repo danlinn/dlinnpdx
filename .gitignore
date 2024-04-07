@@ -1,18 +1,3 @@
-# Ignore WordPress core files installed via Composer
-/wordpress/
-
-# Composer's vendor directory and lock file
-/vendor/
-/composer.lock
-
-# Include the wp-content/uploads directory explicitly
-!/wordpress/wp-content/uploads/
-!/wordpress/wp-content/plugins/
-!/wordpress/wp-content/themes/
-
-# Ignore Composer's files
-/vendor/
-
 # Include Lando configuration
 # (No need to ignore .lando.yml and .lando.base.yml if you want them included)
 
